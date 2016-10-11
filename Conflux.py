@@ -418,25 +418,7 @@ class Game():
                     elif event.key == K_d:
                         direction = 'd'
                     elif event.key == K_a:
-                        direction = 'a'
- 
-                    elif event.key == K_2:
-                        self.room_number = 2                    
-                    elif event.key == K_3:
-                        self.room_number = 3
-                    elif event.key == K_4:
-                        self.room_number = 4
-                    elif event.key == K_5:
-                        self.room_number = 5
-                    elif event.key == K_6:
-                        self.room_number = 6
-                    elif event.key == K_7:
-                        self.room_number = 7
-                    elif event.key == K_8:
-                        self.room_number = 8    
-                    elif event.key == K_9:
-                        self.room_number = 9
-                        
+                        direction = 'a'        
                 elif event.type == KEYUP:
                     direction = ''
                 elif event.type == MOUSEBUTTONDOWN:
