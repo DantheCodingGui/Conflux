@@ -1,7 +1,8 @@
 # Conflux
 My Final A level Project, a top-down python game. 
 
-For this project, I was told that I could make anything I wanted, but had to go through the whole process of gathering user requirements,
-designing, implementing then testing the software. In this case, I chose to make a game in python, the language taught to use at the time.
+Brief was to create anything I wanted, so I chose a game. Throughout a typical school year, also studying 3 other subjects I went through the process of gathering requirements, designing, implementing then testing a product.
+
+In addition, my project was the first in the school's history to get full marks.
 
 Documentation Link: https://docs.google.com/document/d/1JXLNmThEqOOm33QVyq3hCyCLQ9zhEC35yYSa3XRkjEU/edit?usp=sharing
